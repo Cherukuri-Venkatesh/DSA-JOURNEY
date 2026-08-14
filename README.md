@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1991-find-the-middle-index-in-array) |
 | [3731-find-missing-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
