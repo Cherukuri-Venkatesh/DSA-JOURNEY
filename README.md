@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
+| [3889-mirror-frequency-distance](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
+## String
+|  |
+| ------- |
+| [3889-mirror-frequency-distance](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3889-mirror-frequency-distance) |
+## Counting
+|  |
+| ------- |
+| [3889-mirror-frequency-distance](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3889-mirror-frequency-distance) |
 <!---LeetCode Topics End-->
