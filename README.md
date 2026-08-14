@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
