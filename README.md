@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -29,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
 | [3889-mirror-frequency-distance](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
