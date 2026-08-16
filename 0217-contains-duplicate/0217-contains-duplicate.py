@@ -3,11 +3,12 @@ class Solution:
         d={}
         for i in range(len(nums)):
             if nums[i] in d:
-                d[nums[i]]+=1
+                return True
             else:
                 d[nums[i]]=1
-        if any(value>1 for value in d.values()):
-            return True
-        else:
-            return False
+        return False
+        #if any(value>1 for value in d.values()):
+            #return True
+        #else:
+            #return False
         
