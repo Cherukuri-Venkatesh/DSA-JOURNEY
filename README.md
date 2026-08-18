@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
 | [3889-mirror-frequency-distance](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
@@ -85,4 +88,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
