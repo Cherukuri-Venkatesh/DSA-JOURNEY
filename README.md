@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
