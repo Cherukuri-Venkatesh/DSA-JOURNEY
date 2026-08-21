@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [3731-find-missing-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
 | [3889-mirror-frequency-distance](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [3889-mirror-frequency-distance](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3889-mirror-frequency-distance) |
 ## Counting
 |  |
