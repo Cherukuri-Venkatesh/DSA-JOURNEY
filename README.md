@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1991-find-the-middle-index-in-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
