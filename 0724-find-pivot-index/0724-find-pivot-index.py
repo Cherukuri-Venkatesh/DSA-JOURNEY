@@ -1,5 +1,5 @@
-class Solution(object):
-    def pivotIndex(self, nums):
+class Solution:
+    def pivotIndex(self, nums: List[int]) -> int:
         self.prefix=[0]*len(nums)
         self.prefix[0]=nums[0]
         for i in range(1,len(nums)):
@@ -7,12 +7,13 @@ class Solution(object):
         for j in range(0,len(nums)):
             if j==0:
                 if self.prefix[len(nums)-1]-self.prefix[0]==0:
-                    return j
+                    return j 
                     break
             elif self.prefix[j-1]==self.prefix[len(nums)-1]-self.prefix[j]:
                 return j
                 break
         return -1
-            
+
+
         
         
