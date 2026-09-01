@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0067-add-binary) |
 | [0771-jewels-and-stones](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [3889-mirror-frequency-distance](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3889-mirror-frequency-distance) |
 ## Counting
@@ -85,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0268-missing-number) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0191-number-of-1-bits) |
