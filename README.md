@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0338-counting-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0693-binary-number-with-alternating-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
