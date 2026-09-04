@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0693-binary-number-with-alternating-bits) |
 ## Divide and Conquer
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0342-power-of-four) |
 ## Newton's Method
 |  |
 | ------- |
