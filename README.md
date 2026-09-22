@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0118-pascals-triangle) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0189-rotate-array) |
