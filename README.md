@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0463-island-perimeter](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -213,4 +214,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
