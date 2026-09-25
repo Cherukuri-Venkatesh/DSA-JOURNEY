@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0414-third-maximum-number) |
+| [0658-find-k-closest-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0658-find-k-closest-elements) |
 | [3731-find-missing-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
@@ -178,10 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0219-contains-duplicate-ii) |
+| [0658-find-k-closest-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0658-find-k-closest-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -250,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0278-first-bad-version) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
