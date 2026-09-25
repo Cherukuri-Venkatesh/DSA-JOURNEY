@@ -4,10 +4,10 @@ class Solution:
         h=len(letters)-1
         while l<=h:
             m=(l+h)//2
-            if letters[m]<=target:
-                l=m+1
-            else:
+            if letters[m]>target:
                 h=m-1
+            else:
+                l=m+1
         if l==len(letters):
             return letters[0]
         return letters[l]
