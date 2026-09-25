@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0118-pascals-triangle) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0152-maximum-product-subarray) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0191-number-of-1-bits) |
