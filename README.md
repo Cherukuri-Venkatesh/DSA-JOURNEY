@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0658-find-k-closest-elements) |
+| [0665-non-decreasing-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0744-find-smallest-letter-greater-than-target) |
