@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1084-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1179-reformat-department-table) |
 | [1280-students-and-examinations](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Stack
 |  |
 | ------- |
