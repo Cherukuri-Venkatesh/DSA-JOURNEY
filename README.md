@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1393-capital-gainloss) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Stack
 |  |
