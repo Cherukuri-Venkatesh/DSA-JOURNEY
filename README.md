@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 ## String
 |  |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0237-delete-node-in-a-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
