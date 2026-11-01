@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0658-find-k-closest-elements) |
 | [3731-find-missing-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
 ## Design
@@ -111,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [3889-mirror-frequency-distance](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3889-mirror-frequency-distance) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [3889-mirror-frequency-distance](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3889-mirror-frequency-distance) |
 ## Simulation
 |  |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0658-find-k-closest-elements) |
 ## Ternary Search
 |  |
@@ -313,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0232-implement-queue-using-stacks) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
