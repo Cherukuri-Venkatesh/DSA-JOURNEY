@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0414-third-maximum-number) |
@@ -337,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0334-increasing-triplet-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
