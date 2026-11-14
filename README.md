@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
@@ -345,5 +348,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
