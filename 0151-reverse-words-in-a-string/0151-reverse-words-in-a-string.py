@@ -12,5 +12,3 @@ class Solution:
             top-=1
         return ans.strip()
             
-
-        
