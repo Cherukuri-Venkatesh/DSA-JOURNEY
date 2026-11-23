@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [3340-check-balanced-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3340-check-balanced-string) |
 | [3889-mirror-frequency-distance](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3889-mirror-frequency-distance) |
@@ -292,18 +293,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0686-repeated-string-match) |
 ## Depth-First Search
 |  |
 | ------- |
