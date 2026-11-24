@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0219-contains-duplicate-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0165-compare-version-numbers) |
+| [0187-repeated-dna-sequences](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0344-reverse-string) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0231-power-of-two) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0658-find-k-closest-elements) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
@@ -308,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0686-repeated-string-match) |
 ## Depth-First Search
 |  |
@@ -360,4 +366,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0334-increasing-triplet-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
