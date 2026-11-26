@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0771-jewels-and-stones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0771-jewels-and-stones) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Cherukuri-Venkatesh/DSA-JOURNEY/tree/master/0658-find-k-closest-elements) |
 ## Recursion
 |  |
